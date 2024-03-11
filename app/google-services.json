@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663996840795",
+    "project_id": "nimble-climber-398718",
+    "storage_bucket": "nimble-climber-398718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663996840795:android:1137eef0b7ed639b8c787e",
+        "android_client_info": {
+          "package_name": "in.kay.flixtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663996840795-hqfoojhmhge7o27ggv8srkbn05vtfhfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.kay.flixtube",
+            "certificate_hash": "4c0bed92866c974c685b649db96fdca52441ddf7"
+          }
+        },
+        {
+          "client_id": "663996840795-r4hm3df3s1lru8gg7fsh6tj65569ihu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVrEVKcSh5SA2zEZKr5_bs0pU71CiXrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663996840795-r4hm3df3s1lru8gg7fsh6tj65569ihu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
